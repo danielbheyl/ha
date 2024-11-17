@@ -1,5 +1,5 @@
 blueprint:
-  name: TS0044 Zigbee Remote
+  name: Danny TS0044 4 Button Moes
   description: Configure actions for TS0044
   domain: automation
   source_url: https://github.com/danielbheyl/ha/raw/refs/heads/main/BLUEPRINT-Meos-4-Button
