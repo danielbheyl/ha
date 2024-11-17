@@ -3,7 +3,7 @@ blueprint:
   description: Configure actions for TS0044
   domain: automation
   source_url: https://github.com/danielbheyl/ha/raw/refs/heads/main/BLUEPRINT-Meos-4-Button
-  author: Zachary Priddy
+  author: Zachary Priddy Updated by Danny
   input:
     ts0044_device:
       name: TS0044 Remote
